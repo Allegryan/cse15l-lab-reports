@@ -16,7 +16,9 @@ After downloading and installing, make sure to follow (these steps for utilizing
 With this setup complete, we can now go into the actual process of connecting remotely with a course-specific account on ieng6.
 
 In the context of CSE15L, you'll want to type the following command in the terminal (which is opened by looking to the top left of VSCode and navigating to Terminal --> New Terminal):
-`ssh cs15lsp23zz@ieng6.ucsd.edu`
-If it is your first time connecting to a certain server, you'll likely receive a message asking whether or not you'd like to continue connecting. In this case, just type `yes` in the terminal and press enter. 
-Following this, you'll now be prompted to type in the password associated with your class-specific account. If you do not already know your password or would like to reset it before finishing connecting, then you can follow the steps found (here)[https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view]
 
+`ssh cs15lsp23zz@ieng6.ucsd.edu`
+
+If it is your first time connecting to a certain server, you'll likely receive a message asking whether or not you'd like to continue connecting. In this case, just type `yes` in the terminal and press enter. 
+
+Following this, you'll now be prompted to type in the password associated with your class-specific account. If you do not already know your password or would like to reset it before finishing connecting, then you can follow the steps found here:
