@@ -10,8 +10,8 @@ When installed, you should be able to open VSCode and see the following screen:
 
 ## **Step 2: Remote Access**
 For this process, you'll first need to install Git, which will provide a set of necessary tools for this step. 
-Here, for example is the (link for the Windows installation for Git)[https://gitforwindows.org/index.html]. 
-After downloading and installing, make sure to follow (these steps for utilizing git bash as your default terminal on VSCode)[https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994].
+Here, for example is the [link for the Windows installation for Git](https://gitforwindows.org/index.html). 
+After downloading and installing, make sure to follow [these steps for utilizing git bash as your default terminal on VSCode](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994).
 
 With this setup complete, we can now go into the actual process of connecting remotely with a course-specific account on ieng6.
 
@@ -19,6 +19,9 @@ In the context of CSE15L, you'll want to type the following command in the termi
 
 `ssh cs15lsp23zz@ieng6.ucsd.edu`
 
+(Make sure that the "zz" in the example above is replaced with *your* account's specific last 2 digits !!)
+
 If it is your first time connecting to a certain server, you'll likely receive a message asking whether or not you'd like to continue connecting. In this case, just type `yes` in the terminal and press enter. 
 
-Following this, you'll now be prompted to type in the password associated with your class-specific account. If you do not already know your password or would like to reset it before finishing connecting, then you can follow the steps found here:
+Following this, you'll now be prompted to type in the password associated with your class-specific account. If you do not already know your password or would like to reset it before finishing connecting, then you can follow the steps found [here](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view).
+
