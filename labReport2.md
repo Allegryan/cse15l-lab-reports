@@ -5,8 +5,8 @@ The following is the code for creating a web server called StringServer:
 
 **Screenshot 1 of using the "/add-message" request line:**
 ![image](https://user-images.githubusercontent.com/130011927/234147199-ee6f64ac-285c-49ce-9439-e7875602d5e5.png)
-- The method(s) being used here is simply the handleRequest() method. 
-- The only relevant (and really only) class field required is the "results" field. It initially starts as an empty string, and gets updated each time the "/add-message" request line is called with a value. In terms of arguments given to the method, the given URI url changes when a new url is typed in order to add a new message to the resulting string.
+- The method(s) being used here is simply the `handleRequest()` method. 
+- The only relevant (and really only) class field required is the "results" field. It initially starts as an empty string, and gets updated each time the "/add-message" request line is called with a value. In terms of arguments given to the method, the given `URI url` changes when a new url is typed in order to add a new message to the resulting string.
 - From this specific request, the class field of results gets altered. It goes from
 
 > "Hello\nHow are you\nGood! What about you?\n"
@@ -28,7 +28,7 @@ to
 > "Hello\nHow are you\nGood! What about you?\nGreat! Thanks for asking\nOkay bye now...\n"
 
 ## **Part 2**
-For this part, I'll be looking at the bug(s) from the reverseInPlace() method.
+For this part, I'll be looking at the bug(s) from the `reverseInPlace()` method.
 
 Failure-inducing input:
 ```
@@ -73,7 +73,7 @@ static void reverseInPlace(int[] arr){
 }
 ```
 
-In order to fix reverseInPlace, I had to set the condition for the for loop to be the length of the integer array, arr, divided by 2. After that, I would swap the value at arr[i] with the value that is the same distance from the end of the array as arr[i] is from the beginning of the array. Prior to this change, the original code would go through the first half of the array and replace it with the second half of the array. This in concept is fine, but the loop would continue past the halfway point, so the values in the array after the halfway mark would not be replaced with values that came prior, as they should have.
+In order to fix `reverseInPlace`, I had to set the condition for the for loop to be the length of the integer array, arr, divided by 2. After that, I would swap the value at arr[i] with the value that is the same distance from the end of the array as arr[i] is from the beginning of the array. Prior to this change, the original code would go through the first half of the array and replace it with the second half of the array. This in concept is fine, but the loop would continue past the halfway point, so the values in the array after the halfway mark would not be replaced with values that came prior, as they should have.
 
 ## **Part 3**
 For me, the most interesting thing I learned from the past two labs was the running/creation of different servers! Making use of servers, URLs, and websites was especially cool because, since they've become such an everyday part of our already habitual internet usage, being able to apply the concepts that I've learned about coding onto creating simple search engines and servers makes me super eager at the thought of new possibilities and ideas that I can think of now that I have the basic blueprint learned!
