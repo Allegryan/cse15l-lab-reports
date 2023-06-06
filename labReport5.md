@@ -69,6 +69,7 @@ Hope this helps you guys out for the assignment as well!
 
 ## Part Two: Reflection
 
+During this second half of the quarter, I personally think that the coolest thing that I learned came at the very end of the Week 9 Lab, after my groupmates and I finished going through the lab itself, just talking amongst ourselves and our tutor over the different uses and applications of coding and CS in general. I learned a lot about the prospects of applying for tutor positions, forming resumes and portfolios, and future CS classes during our brief yet informative discussion! In particular, talking about future classes such as CSE30 and CSE100 got me very curious and eager to see how my experience in those classes will go! It really kinda opened my eyes to the peculiarity of learning new coding languages and broadening my horizons and experiences through it! Basically, one of the best parts of 15L was being able to talk more with my peers and really getting a feel of the kind of community and discussions that can develop from this subject!
 
 
 
