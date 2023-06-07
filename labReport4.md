@@ -47,6 +47,12 @@ For this step, I once again ran the tester -- this time only needing to move bac
 
 ## Step 9 of 9: Commit and push the resulting change to your GitHub account
 
+![image](https://github.com/Allegryan/cse15l-lab-reports/assets/130011927/6d3cd0c5-90a3-4bc6-870b-86089f94605a)
+
+![image](https://github.com/Allegryan/cse15l-lab-reports/assets/130011927/63d4a257-c0f2-4f1c-be8c-9740849098e1)
+
+
+
 ![image](https://github.com/Allegryan/cse15l-lab-reports/assets/130011927/b37ef047-a5bf-4d18-92da-a3a342e1fccb)
 
 *Keypresses:* g,i,t,`<SPACE>`,p,u,s,h,`<ENTER>`
