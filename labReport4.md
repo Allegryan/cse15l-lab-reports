@@ -51,11 +51,11 @@ For this step, I once again ran the tester -- this time only needing to move bac
 
 ![image](https://github.com/Allegryan/cse15l-lab-reports/assets/130011927/63d4a257-c0f2-4f1c-be8c-9740849098e1)
 
+![image](https://github.com/Allegryan/cse15l-lab-reports/assets/130011927/655a7e5a-7736-4c21-b41c-d45dce5bdc3b)
 
+*Keypresses:* g,i,t,`<SPACE>`a,d,d, `<SPACE>` -,-,a,l,l `<ENTER>` g,i,t, `<SPACE>` c,o,m,m,i,t, `<SPACE>` -,m, `<SPACE>`, ',f,i,x,e,d, `<ENTER>`
+g,i,t, `<SPACE>` p,u,s,h, `<ENTER>`, `<CTRL-V>, <ENTER>`
 
-![image](https://github.com/Allegryan/cse15l-lab-reports/assets/130011927/b37ef047-a5bf-4d18-92da-a3a342e1fccb)
-
-*Keypresses:* g,i,t,`<SPACE>`,p,u,s,h,`<ENTER>`
-
-For this step, I attempted to commit and push the changes to GitHub, but, as I was having trouble doing it in lab as well, I was unable to successfully do so given I was unable to log my credentials and the SSH key shortcut was not working at the time of setting it up either.
+For this step, I added the appropriate files that we just edited into the appropriate repo. Then, I committed the changes we made, and pushed them to my GitHub account. I copy and pasted the password in this case
+as to save time.
 
